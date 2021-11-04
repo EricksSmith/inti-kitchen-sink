@@ -39,6 +39,9 @@ In Inti Foundation we call the header area is made up of two parts. The menu and
 
 > The inti-kitchen-sink child theme expands on this with a number of template parts that contain variations of the header with different or additional elements or changes in position. Coupled with the numerous hooks before, after and inside each element wrapper, it's easy to change one of the most important parts of the site.
 
+Please visit <a href="https://qofia.com/keurig-history">this link</a> and <a href="https://slogangeneratorpro.com/en/pizza">this link</a> and <a href="https://pressurewasherify.com/blog/detergent-wool-delicates-silk-shirt-towel/">this link</a>
+
+
 ### Menus
 The menu will appear in the theme when a menu is created and added to one of the three menu areas that exist by default in the theme. These are the main menu, the mobile menu (which is usually just the same menu) and the footer menu (which is usually single-level)
 
