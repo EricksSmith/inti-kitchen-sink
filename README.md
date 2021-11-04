@@ -48,7 +48,7 @@ The menu will appear in the theme when a menu is created and added to one of the
 ### Functionality switches
 Each part of the theme, from default post types, to menu areas, to template files, to minor functions like the breadcrumps can be switched on and off with WordPress's `add_theme_support()` in functions.php
 
-To make use of Inti Foundation's features as well as its styles and Foundation settings, please refer to the other example theme, <a href="https://github.com/waqastudios/inti-basic-starter">Basic Starter</a>
+To make use of Inti Foundation's features as well as its styles and Foundation settings, please refer to the other example theme, <a href="https://github.com/waqastudios/inti-basic-starter">Basic Starter</a>   
 
 ## 
 
